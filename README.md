@@ -1,6 +1,7 @@
 # flask
 
 ## How to run a Flask project
+* Do step 1-5 once.
 
 1. python -m venv venv
 2. . venv/bin/activate
